@@ -1,0 +1,14 @@
+eu/arrowhead/application/skeleton/provider/controller/ProviderController.class
+eu/arrowhead/application/skeleton/provider/security/ProviderTokenSecurityFilter.class
+eu/arrowhead/application/skeleton/provider/security/ProviderSecurityConfig.class
+eu/arrowhead/application/skeleton/provider/ProviderApplicationInitListener.class
+eu/arrowhead/application/skeleton/provider/configuration/ConfigConstants.class
+eu/arrowhead/application/skeleton/provider/repository/SensorRepository.class
+eu/arrowhead/application/skeleton/provider/controller/SensorController.class
+eu/arrowhead/application/skeleton/provider/ProviderMain.class
+eu/arrowhead/SensorConstants.class
+eu/arrowhead/application/skeleton/provider/service/SensorService.class
+eu/arrowhead/application/skeleton/provider/security/ProviderAccessControlFilter.class
+eu/arrowhead/application/skeleton/provider/configuration/ContainerConfProperties.class
+eu/arrowhead/application/skeleton/provider/model/Sensor.class
+eu/arrowhead/application/skeleton/provider/configuration/ContainerConfiguration.class
